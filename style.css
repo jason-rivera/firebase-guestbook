@@ -1,0 +1,17 @@
+#dialogue {
+    background-color: rgb(180, 180, 180);
+    margin-bottom: 20px;
+}
+
+#dialogue li {
+    list-style-type: none;
+}
+
+.author {
+    color: red;
+}
+
+#message-box {
+    width: 500px;
+}
+
