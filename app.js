@@ -19,7 +19,6 @@ function renderGuestbook(doc) {
     guestbook.appendChild(li);
 }
 
-
 form.addEventListener('submit', (e) => {
     e.preventDefault();
     db.collection('guestbook').add({
